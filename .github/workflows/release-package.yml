@@ -42,11 +42,6 @@ jobs:
                   npm ci
                   npm run build
 
-            - name: Set registry to Github packages
-              uses: actions/setup-node@v3
-              with:
-                  registry-url: https://npm.pkg.github.com/
-
             - name: Publish
               run: |
                   cd ./build
