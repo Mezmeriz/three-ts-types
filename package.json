@@ -25,8 +25,5 @@
         "pretty-quick": "^3.1.1",
         "typescript": "next"
     },
-    "types": "./index.d.ts",
-    "publishConfig": {
-        "@mezmeriz:registry": "https://npm.pkg.github.com"
-    }
+    "types": "./index.d.ts"
 }
