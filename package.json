@@ -1,4 +1,5 @@
 {
+    "name": "@mezmeriz/three-ts-types",
     "private": true,
     "license": "MIT",
     "engines": {
