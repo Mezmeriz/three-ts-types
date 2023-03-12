@@ -1,6 +1,6 @@
 {
     "name": "@mezmeriz/three-ts-types",
-    "private": true,
+    "private": false,
     "license": "MIT",
     "engines": {
         "node": "18.x.x",
